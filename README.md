@@ -1,6 +1,6 @@
 # 🌍 Klima Kosovë - Vizualizimi i Ndryshimeve Klimatike
 
-Aplikacion i plotë në ueb për vizualizimin grafik të të dhënave mbi ndryshimet klimatike për Kosovën dhe të gjitha qytetet e saj.
+Aplikacion i plotë në ueb për vizualizimin grafik të të dhënave mbi ndryshimet klimatike për Podujevën dhe të gjitha fshatrat e saj.
 
 ## 📋 Përmbajtja
 
@@ -25,7 +25,7 @@ Aplikacion i plotë në ueb për vizualizimin grafik të të dhënave mbi ndrysh
 ## ✨ Veçoritë
 
 - 📊 **6 lloje grafikësh** të ndryshëm për vizualizimin e të dhënave
-- 🏙️ **26 qytete** të Kosovës me të dhëna klimatike
+- 🏙️ **26 qytete** të Podujevës me të dhëna klimatike
 - 📅 **Të dhëna historike** nga 2000 deri 2025
 - 🎨 **Dizajn modern** me dark theme
 - 📱 **Responsive** - Punon në të gjitha pajisjet
@@ -110,21 +110,6 @@ Testimi/
 4. **Niveli i CO₂** - Area chart me trendin
 5. **Krahasimi i Qyteteve** - Radar chart
 6. **Lagështia** - Doughnut chart
-
-## 🏙️ Qytetet e Kosovës
-
-Aplikacioni përfshin të dhëna për:
-- Prishtinë (Kryeqyteti)
-- Prizren
-- Pejë
-- Gjakovë
-- Ferizaj
-- Mitrovicë
-- Gjilan
-- Podujevë
-- Vushtrri
-- Suharekë
-- Dhe 15 qytete të tjera...
 
 ## 📈 Të Dhënat
 
